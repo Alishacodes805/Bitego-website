@@ -1,0 +1,116 @@
+/* navbar section */
+
+#navbar{
+    flex-direction: column;
+    
+    
+}
+#logo {
+    margin: -21px 17px;
+}
+
+
+#navbar ul li{
+    font-size: 10px;
+}
+
+/* home section */
+
+#home{
+    height: 359px; 
+    padding: 3px 68px;
+}
+
+#home p{
+    font-size: 13px; 
+}
+
+
+/* utility classes */
+
+.h-primary{
+    font-size: 15px;
+}
+
+h2.h-primary.center {
+    font-size: 30px;
+}
+
+
+.h-secondary {
+    font-size: 26px;
+}
+
+p.center {
+    font-size: 10px;
+}
+
+#services .box img {
+    height: 84px
+}
+.btn{
+    font-size: 12px;
+    padding: 5px 17px;
+
+
+}
+
+/* services section */
+#services{
+    flex-direction: column;
+    overflow: hidden;
+    height: 100%;
+    margin: 7px 60px;
+
+}
+
+#services .box{
+    padding: 2px 3px;
+}
+
+
+/* footer scetion */
+
+.footer-logo {
+  width: 95px;
+  margin-bottom: 15px;
+}
+
+.footer-desc {
+  font-size: 9px;
+  
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.social-icon {
+  
+  height: 27px;
+  width: 28px;
+  
+}
+
+.footer-col h3 {
+ 
+  font-size: 11px;
+  margin-bottom: 18px;
+}
+
+.footer-col ul li a {
+ 
+  font-size: 10px;
+}
+
+.footer-contact p {
+  font-size: 9px;
+  
+  margin: 10px 0;
+}
+
+.support-box strong {
+  
+  font-size: 8px;
+}
+.support-box span {
+  font-size: 8px;
+}
