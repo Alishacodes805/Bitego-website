@@ -24,6 +24,11 @@
     font-size: 13px; 
 }
 
+#home .h-primary {
+    text-align: center;
+    width: 100%;
+}
+
 
 /* utility classes */
 
