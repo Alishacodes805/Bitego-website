@@ -24,17 +24,13 @@
     font-size: 13px; 
 }
 
-#home .h-primary {
-    text-align: center;
-    width: 100%;
-}
-
 
 /* utility classes */
 
 .h-primary{
     font-size: 26px;
     padding: 2px 35px;
+    text-align: center;
 }
 
 h2.h-primary.center {
