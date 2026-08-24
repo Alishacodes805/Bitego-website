@@ -81,7 +81,7 @@ html, body {
     
     display: flex;
     flex-direction: column;
-    padding: 3px 295px;
+    padding: 3px 8%;
     justify-content: center;
     align-items: center;
     height: 677px;
@@ -135,6 +135,8 @@ html, body {
 #services{
     margin: 65px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     
     
 }
