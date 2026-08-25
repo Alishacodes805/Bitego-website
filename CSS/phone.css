@@ -16,7 +16,7 @@
 /* home section */
 
 #home{
-    height: 550px; 
+    min-height: 550px; 
     padding: 3px 68px;
 }
 
