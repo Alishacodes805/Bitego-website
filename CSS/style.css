@@ -6,6 +6,11 @@
      box-sizing: border-box;   /* NAYI LINE - yeh add karo */
 }
 
+img{
+    max-width: 100%;
+    height: auto;
+}
+
 html, body {
     overflow-x: hidden;      /* NAYI LINE - yeh add karo */
     width: 100%;
