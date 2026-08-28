@@ -2,7 +2,8 @@
 
 #navbar{
     flex-direction: column;
-
+    
+    
 }
 #logo {
     margin: -21px 17px;
@@ -16,10 +17,9 @@
 /* home section */
 
 #home{
-    /* min-height: 550px;  */
-    padding: 20px;
-    padding-top: 110px;
-    padding-bottom: 40px;
+    /* height: 550px; */
+    min-height: 550px; 
+    padding: 3px 68px;
 }
 
 #home p{
@@ -33,7 +33,12 @@
     font-size: 26px;
     padding: 2px 35px;
     text-align: center;
+    justify-content: center;
 }
+
+/* h2.h-primary.center {
+    font-size: 30px;
+} */
 
 h2.h-primary.center {
     margin-top: 40px;
@@ -61,6 +66,14 @@ p.center {
 }
 
 /* services section */
+/* #services{
+    flex-direction: column;
+    overflow: hidden;
+    height: 100%;
+    margin: 7px 60px;
+
+} */
+
 #services {
     margin: 20px 15px;
     display: flex;
@@ -68,7 +81,10 @@ p.center {
     gap: 20px;
 }
 
-#services .box {
+/* #services .box{
+    padding: 2px 3px;
+} */
+ #services .box {
     padding: 20px;
     margin: 0;
 }
