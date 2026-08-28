@@ -18,8 +18,12 @@
 
 #home{
     /* height: 550px; */
+     /* min-height: 550px; 
+    padding: 3px 68px; */
+     height: auto;
     min-height: 550px; 
     padding: 3px 68px;
+    padding-top: 150px;
 }
 
 #home p{
